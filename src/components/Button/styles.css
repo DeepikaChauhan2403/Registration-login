@@ -1,0 +1,25 @@
+.btn{
+    background-color: rgb(216, 104, 216);
+    color: black;
+    padding: 0.7rem 1.5rem;
+    border-radius: 10px;
+    font-weight: 300;
+    cursor: pointer;
+    text-align: center;
+    min-width: 100px;
+}
+
+
+
+.darlcolor-btn{
+    background-color: rgb(81, 25, 141);
+    color: white;
+    padding: 0.7rem 1.5rem;
+    border-radius: 10px;
+    font-weight: 600;
+    cursor: pointer;
+    text-align: center;
+    min-width: 100px;
+   
+}
+

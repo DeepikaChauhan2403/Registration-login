@@ -1,0 +1,21 @@
+.landingPage{
+    display: flex;
+    flex-flow: column;
+    /* justify-content:end; */
+    position: fixed;
+    bottom: 40%;
+    width: 100%;
+    align-items: center;
+}
+
+p{
+    color: grey;
+}
+
+@media screen and (max-width: 500px){
+
+    .landingPage{
+        bottom: 10%;
+    }
+    
+}

@@ -1,0 +1,98 @@
+
+
+.profilePge {
+    width: 100%;
+    align-items: center;
+    position: relative;
+    top:120px;
+    border-bottom: 3px black dotted;
+
+}
+
+header h1 {
+    background-color: white;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 25px;
+    background-color: lightcyan;
+}
+
+.profilePge-details{
+    display: flex;
+    flex-direction: row;
+    gap: 6%;
+}
+
+.profilePge-photo{
+    border: 5px black solid;
+    border-radius: 50%;
+   min-height:100px;
+    min-width: 100px;
+    margin: 15px;
+    height:120px;
+    width: 120px;
+}
+
+img{
+    height:100px;
+    width: 100px;
+}
+
+.profilePge-nameemail{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.profile-para p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 100%;
+    font-size: 25px;
+    color: black;
+}
+
+@media screen and (max-width: 450px){
+
+    .profilePge-photo{
+        border: 4px black solid;
+        /* min-height: 100px;
+        min-width: 80px; */
+        margin: 8px;
+    }
+
+    img{
+        height:100px;
+        width: 80px;
+    }
+    
+    .profilePge-details{
+        display: flex;
+        flex-direction: row;
+        gap: 2%;
+    }
+}
+
+@media screen and (max-width: 390px){
+
+    .profilePge-photo{
+        border: 4px black solid;
+        min-height: 100px;
+        min-width: 50px;
+        margin: 2px;
+       
+    }
+
+    img{
+        height:100px;
+        width: 80px;
+    }
+    
+    .profilePge-details{
+        display: flex;
+        flex-direction: row;
+        gap: 2%;
+    }
+}

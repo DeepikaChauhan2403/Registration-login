@@ -1,0 +1,78 @@
+.loginPge{
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    align-items: center;
+}
+
+.headind2{
+    display: none;
+}
+
+
+.para p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 100%;
+    font-size: 25px;
+    margin-top: 0px ;
+}
+
+.loginBtn{
+    background-color: blueviolet;
+    color: white;
+    width: 82vw;
+    height: 60px;
+    padding: 0.7rem 1.5rem;
+    border-radius: 10px;
+    font-size: 30px;
+    cursor: pointer;
+    text-align: center;
+    min-width: 100px;
+    border: none;
+}
+
+
+@media screen and (max-width:1200px){
+    .loginBtn{
+       
+        width: 84vw;
+       } 
+}
+
+
+
+@media screen and (max-width: 500px){
+
+
+    .headind1{
+        display: none;
+    }
+
+    .headind2{
+        display: block;
+        color: black;
+        margin: 0px;
+        font-size: 30px;
+        width: 90%;
+        text-align: start;
+    }
+
+    .para{
+       width: 90%;
+        font-size: 20px;
+        margin-top: 20px ;
+    }
+
+    .para p{
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        width: 100%;
+        font-size: 20px;
+        margin-top: 0px ;
+    }
+
+    .loginBtn{
+       
+        width: 86vw;
+       } 
+}
+
