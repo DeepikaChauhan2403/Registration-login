@@ -20,4 +20,16 @@ All fields on our registration page are mandatory for the accuracy of your infor
 ![image](https://github.com/DeepikaChauhan2403/Registration-login/assets/124796084/8097622e-8538-47a7-bbbc-cefcd2e12253)
 
 
+The login page is your access point to your personalized account. Enter your registered email address and password to securely log in and enjoy all the benefits of the platform.
+
+![image](https://github.com/DeepikaChauhan2403/Registration-login/assets/124796084/e23a1bfd-a8b1-4f53-82c5-80d43ee5548c)
+
+All fields on our login page are mandatory. To access your account, enter your registered email address and password. It's essential to ensure that the email and password you provide match the details you used during registration.
+
+![image](https://github.com/DeepikaChauhan2403/Registration-login/assets/124796084/ed193039-0996-45ea-9304-30c2149fc9de)
+
+
+
+
+
 
