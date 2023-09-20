@@ -28,6 +28,12 @@ All fields on our login page are mandatory. To access your account, enter your r
 
 ![image](https://github.com/DeepikaChauhan2403/Registration-login/assets/124796084/ed193039-0996-45ea-9304-30c2149fc9de)
 
+![image](https://github.com/DeepikaChauhan2403/Registration-login/assets/124796084/fab43b3f-3ebf-48c8-a2bc-e4b586fd8314)
+
+![image](https://github.com/DeepikaChauhan2403/Registration-login/assets/124796084/4f7241d0-e304-4708-a11b-d224381ed79c)
+
+
+
 
 
 
