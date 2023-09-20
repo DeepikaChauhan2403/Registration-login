@@ -15,4 +15,9 @@ Our registration page is your gateway to joining our platform. Here, you can sig
 
 ![image](https://github.com/DeepikaChauhan2403/Registration-login/assets/124796084/6d05acfc-adc5-4282-9124-272dce65b0ce)
 
+All fields on our registration page are mandatory for the accuracy of your information to provide you with the best experience. Additionally, each email address can be used for one user account only to ensure security and uniqueness.
+
+![image](https://github.com/DeepikaChauhan2403/Registration-login/assets/124796084/8097622e-8538-47a7-bbbc-cefcd2e12253)
+
+
 
