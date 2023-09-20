@@ -32,6 +32,9 @@ All fields on our login page are mandatory. To access your account, enter your r
 
 ![image](https://github.com/DeepikaChauhan2403/Registration-login/assets/124796084/4f7241d0-e304-4708-a11b-d224381ed79c)
 
+The last page of the web application is the profile of the user
+
+![image](https://github.com/DeepikaChauhan2403/Registration-login/assets/124796084/c24e7f5f-0c23-4421-baca-ed3beeabeb85)
 
 
 
